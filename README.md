@@ -30,16 +30,16 @@ This app helps users record, manage, and view their daily expenses effectively w
 ## 📸 App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/screenshots/home_screen.jpg)
+![Home Screen](assets/home_screen.jpg)
 
 ### ➕ Add Expense Screen
-![Add Expense](assets/screenshots/add_expense.jpg)
+![Add Expense](assets/add_expense.jpg)
 
 ### ℹ️ About Tab
-![About Tab](assets/screenshots/about_tab.jpg)
+![About Tab](assets/about_tab.jpg)
 
 ### 📄 Expense Detail Screen
-![Expense Detail](assets/screenshots/Detail_expense.jpg)
+![Expense Detail](assets/Detail_expense.jpg)
 
 ---
 
