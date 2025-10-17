@@ -27,12 +27,28 @@ This app helps users record, manage, and view their daily expenses effectively w
 
 ---
 
+## 📸 App Screenshots
+
+### 🏠 Home Screen
+![Home Screen](assets/screenshots/home_screen.jpg)
+
+### ➕ Add Expense Screen
+![Add Expense](assets/screenshots/add_expense.jpg)
+
+### ℹ️ About Tab
+![About Tab](assets/screenshots/about_tab.jpg)
+
+### 📄 Expense Detail Screen
+![Expense Detail](assets/screenshots/Detail_expense.jpg)
+
+---
+
 ## 👨‍💻 Developer
 
 **Developed By:**  
 🧑‍💻 **M. Rehan Mehdi**  
-🧑‍🏫 **Supervision/Teacher:** *Sir Waqar*  
-🎓 **Riphah International University**  
+🎓 *Riphah International University*  
+🧑‍🏫 *Supervised by: Sir Waqar*  
 📅 **© 2025 All Rights Reserved**
 
 ---
@@ -46,7 +62,4 @@ This app helps users record, manage, and view their daily expenses effectively w
 
 ---
 
-## 🏁 Conclusion
-
-The **Expense Tracker App** is designed to make expense management simple, organized, and efficient.  
-It showcases Flutter’s capabilities in UI design, navigation, and responsiveness — perfect for students and professionals looking to manage their finances effortlessly.
+⭐ *Thank you for checking out this project! If you like it, don’t forget to star the repository.*
